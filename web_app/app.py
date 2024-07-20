@@ -1,9 +1,15 @@
 import streamlit as st
 import pickle
 import numpy as np
+import os
+
+# Get the path to the data file
+base_dir = os.path.dirname(__file__)
+file_path = os.path.join(base_dir,'model.pkl')
+
 
 # import the model
-with open("model.pkl", 'rb') as file:
+with open(file_path, 'rb') as file:
     model = pickle.load(file)
 
 
