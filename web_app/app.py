@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # import the model
-with open("..\\Notebook\\model.pkl", 'rb') as file:
+with open("model.pkl", 'rb') as file:
     model = pickle.load(file)
 
 
