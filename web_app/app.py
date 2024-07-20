@@ -8,6 +8,8 @@ base_dir = os.path.dirname(__file__)
 file_path = os.path.join(base_dir,'model.pkl')
 
 
+
+
 # import the model
 with open(file_path, 'rb') as file:
     model = pickle.load(file)
