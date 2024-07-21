@@ -1,0 +1,9 @@
+2024-07-20 17:27:47,828 - ERROR - API request failed: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025B36F65A60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-07-20 17:29:28,563 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://192.168.127.27:8501/api/predict
+2024-07-20 17:29:31,058 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://192.168.127.27:8501/api/predict
+2024-07-20 17:29:32,943 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://192.168.127.27:8501/api/predict
+2024-07-20 17:29:42,784 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://192.168.127.27:8501/api/predict
+2024-07-20 17:30:14,771 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://192.168.127.27:8501/api
+2024-07-20 17:30:16,221 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://192.168.127.27:8501/api
+2024-07-20 17:30:22,943 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://192.168.127.27:8501/api
+2024-07-20 17:32:22,162 - ERROR - API request failed: 403 Client Error: Forbidden for url: http://localhost:8501/api
