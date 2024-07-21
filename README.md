@@ -9,3 +9,5 @@ The classical Machine Learning Task like Data Exploration, Data Cleaning, Featur
 ### Results:
 We have to build a solution that should be able to predict the premium of the personal for the Health Insurance
 DEPLOYED APPLICATION LINK : [https://premium.streamlit.app/](https://premium.streamlit.app/)
+
+FOR DOCUMENTATION OF THIS PROJECT VISIT HERE: [DOCS](Docs)
