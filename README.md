@@ -11,4 +11,3 @@ We have to build a solution that should be able to predict the premium of the pe
 DEPLOYED APPLICATION LINK : [https://premium.streamlit.app/](https://premium.streamlit.app/)
 
 FOR DOCUMENTATION OF THIS PROJECT VISIT HERE: [DOCS](Docs)
-
